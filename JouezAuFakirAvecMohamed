@@ -37,8 +37,8 @@ public class JouezAuFakirAvecMohamed {
         int tentatives = 0;
         boolean trouve = false;
 
-        // Démarrer le jeu
-        System.out.println("Devinez le nombre entre 1 et " + maxRange + " !");
+        // Le jeu démarre
+        System.out.println("Devine le nombre entre 1 et " + maxRange + " !");
         
         while (!trouve) {
             System.out.print("Votre essai : ");
