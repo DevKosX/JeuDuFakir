@@ -1,5 +1,5 @@
-<!--
-    Jeu du Fakir - Projet personnel
+
+    #Jeu du Fakir - Projet personnel
 
     Description du projet :
     
@@ -17,6 +17,4 @@
     - IDE : Intellij
     - Java pour la création du jeu
     - Terminal pour l'execution
-
--->
 
