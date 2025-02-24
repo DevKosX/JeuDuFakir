@@ -1,5 +1,5 @@
 
-    #Jeu du Fakir - Projet personnel
+* **Jeu du Fakir - Projet personnel**
 
     Description du projet :
     
